@@ -434,7 +434,7 @@ The above is a reference list. Please see [the manualsearch doc](./manualsearch.
 + #### Look At Her Now | Matching type: *[Enhanced](./manualsearch.md#enhanced-search)*
 + #### Love Her Feet | Matching type: *[Enhanced](./manualsearch.md#enhanced-search)*
 + #### LustReality | Matching type: *[Enhanced](./manualsearch.md#enhanced-search)*
-+ #### ManyVids | Matching type: *[Exact](./manualsearch.md#exact-match)* - **SceneID, Date Add**
++ #### ManyVids | Matching type: *[Exact](./manualsearch.md#exact-match)* - **SceneID, Date Add** (will not work if model is currently streaming on MV Live)
 + #### Meana Wolf | Matching type: *[Limited](./manualsearch.md#limited-search)*
 + #### Melone Challenge | Matching type: *[Enhanced](./manualsearch.md#enhanced-search)*
 + #### MetArt Network | Matching type: *[Enhanced](./manualsearch.md#enhanced-search)*
